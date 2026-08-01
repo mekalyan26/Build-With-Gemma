@@ -53,7 +53,7 @@ Instead of wasting 15 minutes clicking through cluttered computer screens before
 ---
 
 ## Run Locally
-
+Download CareFlow360 zip file and proceed with these instructions
 1. Install frontend dependencies:
 
 ```bash
