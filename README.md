@@ -1,5 +1,7 @@
 # CareFlow 360: Kaggle Submission Writeup
 
+https://www.kaggle.com/competitions/build-with-gemma-triage-in-light-speed/writeups/new-writeup-1785601253588
+
 **CareFlow 360** is an enterprise grade clinical co-pilot and middleware designed to help physicians in day to day basis and emergency physicians triage and rapidly interpret complex patient information while maintaining absolute, fail-safe with key attention to patient safety.
 
 Ontario's healthcare system faces severe challenges, including a shortage of family doctors, emergency room closures, and hospital overcrowding. Millions of residents lack a regular family physician, and hospitals struggle with structural budget deficits and high bed occupancy rates.
